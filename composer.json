@@ -1,13 +1,13 @@
 {
-    "name": "panychek/moex",
+    "name": "markuper/moex",
     "type": "library",
     "description": "Moscow Exchange ISS Client",
     "keywords": ["moex", "moscow", "exchange", "micex"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Igor Panychek",
-            "email": "panychek@gmail.com"
+            "name": "The Buddha",
+            "email": ""
         }
     ],
     "require": {
